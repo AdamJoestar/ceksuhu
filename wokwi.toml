@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/ceksuhu.ino.hex'
+firmware = 'build/ceksuhu.ino.bin'
 elf = 'build/ceksuhu.ino.elf'
